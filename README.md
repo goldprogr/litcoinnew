@@ -1,4 +1,4 @@
-SmallChange (SMC) - a 'faster' version of Litecoin which also uses scrypt
+litecoinnew(LCN) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
  - 42 007 680 total coins
